@@ -1,1 +1,1 @@
-# Javescript-Myntra-Functional-Clone
+# JavaScript-Myntra-Functional-Clone
